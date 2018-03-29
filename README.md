@@ -1,6 +1,6 @@
 # exercices_html_css
 
-<h2>Compétence :</h2>
+<h2>Compétence</h2>
 <p>Développer une application client-serveur / Développer une interface utilisateur</p>
 
 <h2>Objectif</h2>
