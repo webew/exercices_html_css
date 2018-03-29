@@ -9,4 +9,4 @@
 <h2>Remarque</h2>
 <p>Il doit y avoir plusieurs façons de faire...</p>
 
-<a>Par ici</a>
+<a href='https://github.com/webew/exercices_html_css/wiki/Exercices'>Par ici</a>
